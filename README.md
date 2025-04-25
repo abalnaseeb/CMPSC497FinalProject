@@ -8,16 +8,15 @@
 ## Overview
 
 This project focuses on fine-tuning a language model (LLM) to generate possible research approaches for various cybersecurity problems. The model takes a short research question as input and responds with one suggested method or idea to explore the topic.
-
-The project was designed and implemented as part of the final deliverable for CMPSC 497 at Penn State.
+The project was designed and implemented as part of the final deliverable for CMPSC 497 at Penn State University.
 
 ## Task Description
 
 - Input: A short cybersecurity problem or research question.
 - Output: One useful research approach to address the problem.
 - Example:
-  - **Input:** "How to protect against phishing attacks?"
-  - **Output:** "Train an AI model on phishing email datasets and use it to filter suspicious messages in real-time. Combine it with user training programs."
+  - **Input:** "How to protect against DDos attack?"
+  - **Output:** "For protection against DDoS attacks, consider using firewall and other tools that prevent unauthorized access. Use common sense security measures like phishing or brute force operations such as denial of service (DNS) requests for sensitive data from compromised computers. Implement proper procedures when possible so attackers can find vulnerabilities in all domains they visit"
 
 ## Dataset
 
@@ -62,4 +61,4 @@ The project was designed and implemented as part of the final deliverable for CM
 
 ## License
 
-This project is for educational purposes under Penn State’s CMPSC 497 course. All data and code are student-generated unless stated otherwise.
+This project is for educational purposes under Penn State’s CMPSC 497 course.
